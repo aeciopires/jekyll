@@ -39,4 +39,4 @@ exclude:
   - README.md
   - .gitignore
 
-theme: jekyll-theme-slate
+theme: jekyll-theme-cayman

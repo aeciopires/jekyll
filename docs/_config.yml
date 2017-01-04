@@ -1,8 +1,7 @@
-#google_analytics_id: UA-50755011-1
-google_site_verification: onQcXpAvtHBrUI5LlroHNE_FP0b2qvFyPq7VZw36iEY
+#google_analytics_id: 
 
 repository: https://github.com/aeciopires/jekyll
-help_url: https://github.com/jekyll/jekyll-help
+url: https://aeciopires.github.io/jekyll/
 
 collections:
   docs:
@@ -11,11 +10,11 @@ collections:
     permalink: /news/:year/:month/:day/:title/
     output: true
 
-name: Jekyll • Simple, blog-aware, static sites
-description: Transform your plain text into static websites and blogs
-url: https://aeciopires.github.io/jekyll/
+name: Puppet-BR • Apenas um teste para o novo site
 
-logo: /img/logo-2x.png
+description: Site da comunidade Puppet-BR
+
+logo: /img/puppet-users-br.png 
 
 gems:
   - jekyll-feed

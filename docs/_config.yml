@@ -39,8 +39,4 @@ exclude:
   - README.md
   - .gitignore
 
-<<<<<<< HEAD
 theme: jekyll-theme-cayman
-=======
-theme: jekyll-theme-slate
->>>>>>> e12d0721fbded85e480a12d4090d465f5387e387
